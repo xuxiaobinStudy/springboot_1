@@ -1,0 +1,9 @@
+
+Ysquid:UselessImportCheck"0Remove this unused import 'java.net.URLDecoder'.(œ®ô„8ó¶ÆÕ-
+Ysquid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(î®­O8ó¶ÆÕ-
+bsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(³Ó©‚ÿÿÿÿÿ8ó¶ÆÕ-
+Ysquid:UselessImportCheck"0Remove this unused import 'java.net.URLEncoder'.(ê¢ºÆ8ó¶ÆÕ-
+Zsquid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(‘ÍíÉ8ó¶ÆÕ-
+]squid:S1075"ARefactor your code to get this URI from a customizable parameter.(´ëî 8ó¶ÆÕ-
+Ksquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ó¶ÆÕ-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹¬ùáûÿÿÿÿ8ó¶ÆÕ-

@@ -1,0 +1,15 @@
+
+Fsquid:S00108")Either remove or fill this block of code.(”ý¾8¸›ÝáÔ-
+tsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(×ãˆýÿÿÿÿÿ8¸›ÝáÔ-
+‘squid:S1845"uRename method "zrangeByScore" to prevent any misunderstanding/clash with method "zrangebyscore" defined on line 1994.(ÂÝÃã8¸›ÝáÔ-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö©8¸›ÝáÔ-
+Gsquid:S1168"+Return an empty collection instead of null.(¥¹ï8¸›ÝáÔ-
+tsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¨¬÷œþÿÿÿÿ8¸›ÝáÔ-
+csquid:CallToDeprecatedMethod"6Remove this use of "returnResource"; it is deprecated.(«ô€ò8¸›ÝáÔ-
+‰squid:S1845"hRename method "hincrBy" to prevent any misunderstanding/clash with method "hincrby" defined on line 878.(“à—øÿÿÿÿ8¸›ÝáÔ-
+Fsquid:S00108")Either remove or fill this block of code.(”ý¾8¸›ÝáÔ-
+Gsquid:S1168"+Return an empty collection instead of null.(¥¹ï8¸›ÝáÔ-
+Gsquid:S1168"+Return an empty collection instead of null.(¥¹ï8¸›ÝáÔ-
+squid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ8×…‚âÔ-
+‡squid:S1845"fRename method "getset" to prevent any misunderstanding/clash with method "getSet" defined on line 413.(Ù½‘†ýÿÿÿÿ8¸›ÝáÔ-
+Bsquid:S1168"&Return an empty array instead of null.(¥¹ï8¸›ÝáÔ-
